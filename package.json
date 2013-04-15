@@ -1,0 +1,28 @@
+{
+  "name": "ngn-idk-socket",
+  "version": "1.0.0",
+  "description": "The TCP Sockets IDK for NGN.",
+  "main": "lib/bootstrap.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --harmony test"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/nodengn/ngn-idk-rpc.git"
+  },
+  "keywords": [
+    "NGN",
+    "TCP",
+    "sockets"
+  ],
+  "author": "Corey Butler <corey@nodengn.com> (http://www.nodengn.com)",
+  "license": "GPL",
+  "readmeFilename": "README.md",
+  "dependencies": {
+  },
+  "devDependencies": {}
+}

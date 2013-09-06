@@ -1,5 +1,5 @@
 {
-  "name": "ngn-idk-socket",
+  "name": "ngn-idk-tcp",
   "version": "1.0.0",
   "description": "The TCP Sockets IDK for NGN.",
   "main": "lib/bootstrap.js",
